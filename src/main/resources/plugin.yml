@@ -1,0 +1,11 @@
+name: SurvivelistCrates
+version: ${project.version}
+main: survivelist.itzshmulik.survivelistcrates.SurvivelistCrates
+api-version: 1.17
+authors: [ ItzShmulik ]
+description: Makes survivelist's crates system
+commands:
+  sck:
+    description: Give a key to yourself or other players!
+  scc:
+    description: Gives the player a crate
